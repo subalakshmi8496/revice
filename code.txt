@@ -1,0 +1,1 @@
+devops is a collaboration between development and IT operations to make software production and delployment of an automated and repeatable way
